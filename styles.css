@@ -1,0 +1,23 @@
+
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.invite-container {
+    background-color: rgb(229, 255, 255);
+    border: 3px solid rgb(53, 206, 240);
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 500px;
+    margin: 40px auto;
+}
+.rsvp-button {
+    background-color: rgb(72, 210, 212);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
